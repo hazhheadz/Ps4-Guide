@@ -1,2 +1,2 @@
 # Ps4-Guide
-A complete guide to Ps4 haxx
+A complete guide to Ps4 homebrew
