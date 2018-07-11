@@ -1,0 +1,65 @@
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+    <li>
+      <span class="nav__sub-title">Overall Progress</span>
+      <ol>
+        
+          
+            <li style="display: none;" data-name="home"><a href='/Ps4-Guide'>Home</a></li>
+          
+        
+          
+            <li style="display: none;" data-name="get-started"><a href='/Ps4-Guide/get-started'>Get Started</a></li>
+          
+        
+          
+            <li style="display: none;" data-name="get-started-(ps-phat)"><a href='/Ps4-Guide/get-started-(ps-phat)'>Get Started (Ps4 Phat)</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="get-started-(ps-slim)"><a href='/Ps4-Guide/get-started-(ps-slim)'>Get Started (Ps4 Slim</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="get-started-(ps-phat)"><a href='/Ps4-Guide/get-started-(ps-pro)'>Get Started (Ps4 Pro)</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="get-started-(ps-phat)"><a href='/Ps4-Guide/get-started-(ps-phat)'>Get Started (Ps4 Phat)</a></li>      
+            
+
+
+           <li style="display: none;" data-name="multiple-options"><i>(Multiple Options)</i></li>
+          
+        
+          
+            <li style="display: none;" data-name="system-update-latest"><a href='/Ps4-Guide/system-update-latest'>Update to latest FW</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="block-updates"><a href='/Ps4-Guide/block-updates'>Block Updates</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="system-update-(usb)"><a href='/Ps4-Guide/system-update-(usb)'>Update to 4.55</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="continue"><a href='/Ps4-Guide/continue'>Continue</a></li>      
+          
+        
+          
+            <li style="display: none;" data-name="launch-exploit"><a href='/Ps4-Guide/launch-exploit'>Launch Exploit</a></l    
+          
+        
+          
+     </ol>
+   </li>
+  </ul> 
+ </ul>
+</nav>
+
+</div>
