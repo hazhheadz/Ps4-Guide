@@ -1,7 +1,3 @@
-# Ps4-Guide
+# This project is on hold until the PS4 scene evolves to a point where hacks are not just for piracy
 
-[![Join the chat at https://gitter.im/Ps4-Homebrew-Guide/Lobby](https://badges.gitter.im/Ps4-Homebrew-Guide/Lobby.svg)](https://gitter.im/Ps4-Homebrew-Guide/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-A complete guide to Ps4 homebrew
-
-Link to the guide: https://multimegamander.github.io/Ps4-Guide/
+DO NOT UPDATE!!!
